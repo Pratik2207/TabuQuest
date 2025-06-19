@@ -1,0 +1,9 @@
+pandas>=1.5.3
+numpy>=1.24.3
+openai>=1.0.0          # If using OpenAI API for GPT
+transformers>=4.38.2   # For HuggingFace LLMs (optional)
+tqdm>=4.66.1           # For loading bars
+jupyterlab>=4.0.0      # For interactive notebooks
+ipykernel>=6.0.0       # Kernel support
+
+
