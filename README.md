@@ -66,11 +66,11 @@ Edit
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/tabuquest.git
+git clone https://github.com/Pratik2207/TabuQuest.git
 cd tabuquest
 
 # 2. Install dependencies
 pip install -r requirements.txt
 
 # 3. Run the script (ensure data/input_table.csv exists)
-python your_script.py  # Or use the notebook
+python first.py  # Or use the notebook
