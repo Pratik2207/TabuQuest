@@ -12,27 +12,7 @@
 - ✅ Saves responses and context to an Excel output file  
 - ✅ Easy to extend with more models or UI
 
----
-
-## 🗂️ Project Structure
-
-tabuquest/
-├── data/
-│ ├── input_table.csv # Main dataset
-│ └── QA_dataset_share.xlsx # Optional: Question/Answer evaluation data
-├── src/
-│ ├── get_relevant_rows_and_cols() # Retriever
-│ ├── generate_answer() # Reader
-│ └── generate_output() # Pipeline output + saving
-├── README.md
-├── requirements.txt
-└── predicted.xlsx # Output file
-
-yaml
-Copy
-Edit
-
----
+------
 
 ## ⚙️ Technologies Used
 
@@ -53,8 +33,7 @@ Edit
 - Embeds the query
 - Finds top relevant rows/columns using cosine similarity
 - Extracts context and passes it into a QA model
-4. **Answer is generated and saved to `predicted.xlsx`**
-
+4. **Answer is generated **
 ---
 
 ## 🧪 Example Outputs
