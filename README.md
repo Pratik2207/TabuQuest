@@ -37,6 +37,8 @@
 ---
 
 ## 🧪 Example Outputs
+1. "Which product  is most sold in mandalay as per quantity?"
+OUTPUT : 
 
 
 ---
