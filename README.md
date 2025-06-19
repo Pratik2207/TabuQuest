@@ -38,6 +38,7 @@
 
 ## 🧪 Example Outputs
 1. "Which product  is most sold in mandalay as per quantity?"
+   
 OUTPUT : Rows: [174, 28, 734, 638, 724]
 Cols: [5, 3, 4, 6, 7]
 Answer: {'score': 0.6045435070991516, 'start': 70, 'end': 88, 'answer': 'Food and beverages'}
